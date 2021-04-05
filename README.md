@@ -1,4 +1,2 @@
-- 🔭 I’m currently working on: A HTTP Javascript client for [trefel.io](https://trefle.io/)
-- 🌱 I’m currently learning: Typescript
 - 💬 Ask me about: Anything
 - 📫 How to reach me: Email
